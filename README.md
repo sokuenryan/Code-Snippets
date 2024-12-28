@@ -1,5 +1,5 @@
 # React Snippet Library
-### A collection of reusable React code snippets designed to simplify development and enhance productivity. 
+## A collection of reusable React code snippets designed to simplify development and enhance productivity. 
 ### This library provides easy access to common patterns and examples used in React applications.
 
 ## What It Is
