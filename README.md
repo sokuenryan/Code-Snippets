@@ -3,7 +3,7 @@
 **This library provides easy access to common patterns and examples used in React applications.**
 
 ## What It Is
-This repository serves as a central hub for React developers to:
+### This repository serves as a central hub for React developers to:
 
 **Store Reusable Code: Save snippets for components, hooks, utilities, and more.
 Accelerate Development: Quickly reference common solutions for React projects.
