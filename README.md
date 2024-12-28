@@ -5,9 +5,14 @@
 ## What It Is
 ### This repository serves as a central hub for React developers to:
 
-**Store Reusable Code: Save snippets for components, hooks, utilities, and more.
-Accelerate Development: Quickly reference common solutions for React projects.
-Share Knowledge: Collaborate and contribute your favorite snippets to the library.** 
+- Store Reusable Code: Save snippets for components, hooks, utilities, and more.
+- Accelerate Development: Quickly reference common solutions for React projects.
+- Share Knowledge: Collaborate and contribute your favorite snippets to the library.
+
+## So Code uses the following imports: 
+ - react-router-dom
+ - AuthProvider 
+ - PrivateRoute 
 
 # Instructions on how to integrate into your VS Code project
 1. Use the command `Command` **+** `Shift` **+** `P` to open `Preferences: Configure User Snippets`.
